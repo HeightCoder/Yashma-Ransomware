@@ -27,15 +27,15 @@ https://github.com/user-attachments/assets/2bf29b78-5e5a-4bf5-9d3e-8c34c80bfad0
 ![Yashma](https://github.com/user-attachments/assets/a65516ce-a223-43ff-952d-fb4ca9b860ee)
 
 ## ⚜️ 〢 Features
-- AES-RSA encryption
-- Resist for admin privileges
-- Delete Shadowcopies
-- Disable Windows Recovery Mode
-- Disable Task Manager
 - Stop Backup and Antivirus Services
+- Disable Windows Recovery Mode
+- Resist for admin privileges
 - Change desktop wallpaper
-- Delay before Encrypting
-- Spread Local Drives
+- Delay before encrypting
+- Disable Task Manager
+- Delete Shadowcopies
+- AES-RSA encryption
+- Spread via Drives
 - Add to Startup
 
 ## 💵 〢 Donate

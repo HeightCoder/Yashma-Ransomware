@@ -1,6 +1,6 @@
 # Yashma Ransomware
 Yashma Ransomware, is an ransomware builder is also known as Ryuk and Chaos.  
-It encrypts files with AES/RSA, the source has leaked for free.  
+It encrypts files with AES/RSA, the source has been decompiled and fixed by me for free.  
   
 Thanks to me, you no longer need to pay this guy to get the source. 🤣  
 

@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/2bf29b78-5e5a-4bf5-9d3e-8c34c80bfad0
 ## ⚜️ 〢 Features
 - Stop Backup and Antivirus Services
 - Disable Windows Recovery Mode
-- Resist for admin privileges
 - Change desktop wallpaper
+- Resist for admin privileges
 - Delay before encrypting
 - Disable Task Manager
 - Delete Shadowcopies

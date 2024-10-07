@@ -36,6 +36,7 @@ https://github.com/user-attachments/assets/2bf29b78-5e5a-4bf5-9d3e-8c34c80bfad0
 - Change desktop wallpaper
 - Delay before Encrypting
 - Spread Local Drives
+- Add to Startup
 
 ## 💵 〢 Donate
 BTC: bc1qk7q3m5spctnevttzwsyv9n3fpmcc04s9nruhjz

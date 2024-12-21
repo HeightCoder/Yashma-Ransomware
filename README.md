@@ -14,11 +14,14 @@
 </p>
 
 ## ❓ 〢 About
-Yashma is an popular closed-source ransomware builder formerly known as 'Ryuk' and 'Chaos'.  
+🗨️ Yashma is an popular closed-source ransomware builder formerly known as 'Ryuk' and 'Chaos'.  
 It encrypts every file with AES-RSA and comes with several malicious toggleable features.  
   
-The binaries code has been decompiled and fixed to its original state, making it moddable.  
+🔔 The binaries code has been decompiled and fixed to its original state, making it moddable.  
 Because of that, you no longer need to pay the author to get any kind of source. 😏  
+
+⚠️ The stub for this ransomware has a clipper function that replaces certain crypto address.  
+It's not very documented, but you can remove this code yourself in the project files.  
 
 ## 🎥 〢 Proof
 https://github.com/user-attachments/assets/2bf29b78-5e5a-4bf5-9d3e-8c34c80bfad0
